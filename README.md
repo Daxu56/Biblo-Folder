@@ -1,4 +1,5 @@
-<img width="2172" height="724" alt="Biblo Folder_ Organizador Neón de Escritorio" src="https://github.com/user-attachments/assets/3c6db5ea-b0ab-4cd5-b35f-430fa8a734c0" />
+<img width="2172" height="724" alt="Banner neón Biblo Folder" src="https://github.com/user-attachments/assets/d2b62f65-4149-46de-9e78-9ef6a0c99124" />
+
 
 # 📁 Biblo-Folder
 
