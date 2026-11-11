@@ -12,7 +12,6 @@ Biblo-Folder is a desktop application designed to organize your favorite apps, f
 - 🚀 Quick access to apps and shortcuts
 - 🪟 Designed for Windows
 - 🔓 Free and open source
-- 💻 Community-driven development
 
 ## 📥 Download
 
