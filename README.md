@@ -1,103 +1,59 @@
 <img width="2172" height="724" alt="Banner neón Biblo Folder" src="https://github.com/user-attachments/assets/d2b62f65-4149-46de-9e78-9ef6a0c99124" />
 
 
-# Biblo Folder
+# 📁 Biblo Folder
 
-**A Modern, Free & Open-Source Desktop Organizer for Windows**
+**Open-source desktop organizer for Windows.**
 
-Biblo Folder brings the simplicity of mobile-style folders to your Windows desktop. Organize your applications, files, folders, and shortcuts in beautiful, expandable, and fully customizable desktop widgets.
-
-Designed to make your desktop cleaner, more personal, and easier to navigate.
+Biblo Folder organizes applications, files, and shortcuts into customizable, expandable folders directly on the Windows desktop.
 
 ## ✨ Features
 
-- 📁 **Customizable Folders** — Organize your desktop with folders that fit your workflow.
-- 🎨 **Modern Appearance** — Personalize colors, materials, shapes, and transparency.
-- 🖱️ **Drag & Drop** — Organize files, shortcuts, and folders intuitively.
-- 🪟 **Desktop Integration** — Access your favorite content directly from Windows.
-- 📐 **Flexible Layouts** — Choose square, wide, or tall folder designs.
-- 🔧 **Folder Settings** — Adjust size, labels, positioning, and appearance.
-- 🔓 **Open Source** — Built for an open and collaborative community.
+- 📂 **Expandable folders** — Access files and shortcuts without opening File Explorer.
+- 🎨 **Customization** — Colors, materials, transparency, and folder sizes.
+- 📐 **Layouts** — Square, wide, and tall folder shapes.
+- 🖱️ **Drag & Drop** — Add and organize files, folders, and shortcuts.
+- ⚙️ **Folder controls** — Adjust positioning, labels, and expansion behavior.
+- 💾 **File management** — Choose storage locations and restore items to their original locations.
 
 ## 📸 Screenshots
 
-Explore Biblo Folder's interface and customization options.
+### 🖥️ Desktop folders
 
-### Desktop Organization
+![Desktop folders](assets/screenshots/desktop.png)
 
-Beautiful, compact folders that expand to display your favorite applications, files, and shortcuts.
+### 📂 Expanded folders
 
+![Expanded folders](assets/screenshots/expanded.png)
 
+### 🎨 Shapes & Materials
 
-### Expandable Folders
+![Customization](assets/screenshots/customization.png)
 
-Open folders directly on your desktop and browse your content without clutter.
+### ⚙️ Folder Settings
 
+![Folder settings](assets/screenshots/settings.png)
 
+### 💾 File Management
 
-### Shapes & Materials
-
-Customize your folders with different shapes, colors, and visual materials.
-
-
-
-### Folder Settings
-
-Control folder size, opacity, labels, and positioning from one central interface.
-
-
-
-### File Organization
-
-Manage files and shortcuts with drag-and-drop functionality and configurable storage locations.
-
-
+![File management](assets/screenshots/files.png)
 
 ## 📥 Download
 
-Download the latest available release of Biblo Folder for Windows from the **Releases** section of this repository.
+Get the latest available version for Windows from [GitHub Releases](../../releases).
 
 ## 🚀 Installation
 
-1. Open the repository's **Releases** section.
-2. Download the Windows installer, if available.
-3. Run the installer.
-4. Follow the installation instructions.
-5. Launch Biblo Folder and start organizing your desktop.
-
-## 🛠️ Technology
-
-Biblo Folder is a desktop application built with modern technologies.
-
-Technical dependencies, build instructions, and development requirements will be documented alongside the published source code.
-
-## 🗺️ Roadmap
-
-Potential future improvements include:
-
-- [ ] Additional customization themes
-- [ ] More folder layouts and animations
-- [ ] Customizable keyboard shortcuts
-- [ ] Configuration import and export
-- [ ] Additional language support
-- [ ] Community-requested features
+1. Download the Windows installer from Releases.
+2. Run the installer.
+3. Open Biblo Folder.
 
 ## 🤝 Contributing
 
-Biblo Folder welcomes community contributions!
+Bug reports, suggestions, and pull requests are welcome.
 
-You can help by reporting bugs, suggesting improvements, improving documentation, or contributing code through pull requests.
-
-Before contributing, please review the repository guidelines when available.
+Use GitHub Issues to report problems or propose changes.
 
 ## 📜 License
 
-Biblo Folder is intended to be a free and open-source project.
-
-The applicable license and its terms will be provided in the repository's `LICENSE` file.
-
----
-
-**Biblo Folder — Organize your desktop, your way.**
-
-Made for a cleaner, more beautiful Windows desktop.
+See the [LICENSE](LICENSE) file for licensing terms.
