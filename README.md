@@ -2,8 +2,6 @@
 
 ### A Modern Open-Source Desktop Organizer for Windows
 
-**Free • Open Source • Customizable**
-
 Biblo-Folder is a desktop application designed to organize your favorite apps, files, and shortcuts into beautiful, interactive folders inspired by Android and iOS.
 
 ## ✨ Features
