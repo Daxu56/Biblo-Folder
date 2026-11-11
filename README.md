@@ -1,3 +1,5 @@
+<img width="2172" height="724" alt="Biblo Folder_ Organizador Neón de Escritorio" src="https://github.com/user-attachments/assets/3c6db5ea-b0ab-4cd5-b35f-430fa8a734c0" />
+
 # 📁 Biblo-Folder
 
 ### A Modern Open-Source Desktop Organizer for Windows
