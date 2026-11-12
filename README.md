@@ -24,7 +24,7 @@ Biblo Folder organizes applications, files, and shortcuts into customizable, exp
 
 ### 🎨 Shapes & Materials
 
-<img width="481" height="295" alt="CYBERPUNKFOLDERS-GITHUB" src="https://github.com/user-attachments/assets/a13a5f48-2d26-4759-ad73-eddc0647f8c2" />
+<img width="565" height="310" alt="FOLDERS" src="https://github.com/user-attachments/assets/c1cf30a3-66fa-45fc-8524-dcc9aaa07909" /> <img width="481" height="295" alt="CYBERPUNKFOLDERS-GITHUB" src="https://github.com/user-attachments/assets/a13a5f48-2d26-4759-ad73-eddc0647f8c2" />
 
 ### ⚙️ Folder Settings
 
