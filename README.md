@@ -20,7 +20,8 @@ Biblo Folder organizes applications, files, and shortcuts into customizable, exp
 
 ### 🖥️ Desktop folders
  
- <img width="583" height="258" alt="05-Mica-Windows" src="https://github.com/user-attachments/assets/46d8b0cb-6d0b-45a6-972e-1ce664c5764b" />
+<img width="618" height="360" alt="image" src="https://github.com/user-attachments/assets/48e409eb-3fd4-453e-832e-f6056623b7b7" />
+
 
 ### 📂 Expanded folders
 
