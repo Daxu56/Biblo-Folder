@@ -33,7 +33,7 @@ Biblo Folder organizes applications, files, and shortcuts into customizable, exp
 ### 🔎 Folder Search
 Ctrl + Spacebar
 
-<img width="612" height="301" alt="14-Buscador-filtrado" src="https://github.com/user-attachments/assets/d300553d-cb12-4053-94e6-1921fbe034e3" />
+<img width="512" height="288" alt="filter biblo" src="https://github.com/user-attachments/assets/66d27e4b-64bd-4c1e-95f2-dee32e33698f" />
 
 ## 📥 Download
 
