@@ -22,7 +22,7 @@ Biblo Folder organizes applications, files, and shortcuts into customizable, exp
  
 <img width="614" height="360" alt="GIF BIBLO" src="https://github.com/user-attachments/assets/07dacaab-92b0-46a9-9261-caf3a033a84b" />
 
-### 🎨 Shapes & Materials
+### 🎨 Materials
 
 <img width="338" height="209" alt="FOLDERS-ezgif com-resize" src="https://github.com/user-attachments/assets/b15b0183-0084-4506-b544-53090782bafe" /><img width="316" height="209" alt="CYBERPUNK-ezgif com-resize" src="https://github.com/user-attachments/assets/3b531699-83c3-4578-9b82-f61117e6a04f" />
 
@@ -32,6 +32,7 @@ Biblo Folder organizes applications, files, and shortcuts into customizable, exp
 
 ### 🔎 Folder Search
 Ctrl + Spacebar
+
 <img width="612" height="301" alt="14-Buscador-filtrado" src="https://github.com/user-attachments/assets/d300553d-cb12-4053-94e6-1921fbe034e3" />
 
 ## 📥 Download
