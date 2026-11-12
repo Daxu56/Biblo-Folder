@@ -22,10 +22,6 @@ Biblo Folder organizes applications, files, and shortcuts into customizable, exp
  
 <img width="614" height="360" alt="GIF BIBLO" src="https://github.com/user-attachments/assets/07dacaab-92b0-46a9-9261-caf3a033a84b" />
 
-### 📂 Expanded folders
-
-![Expanded folders](assets/screenshots/expanded.png)
-
 ### 🎨 Shapes & Materials
 
 ![Customization](assets/screenshots/customization.png)
