@@ -28,7 +28,7 @@ Biblo Folder organizes applications, files, and shortcuts into customizable, exp
 
 ### ⚙️ Folder Settings
 
-<img width="956" height="828" alt="11-Opciones-oscuro" src="https://github.com/user-attachments/assets/eab05ccb-e1d9-43a7-afa0-c5b876c46e2c" />
+<img width="478" height="414" alt="11-Opciones-oscuro-ezgif com-resize" src="https://github.com/user-attachments/assets/19bc342d-d9b3-4d82-845e-77dc2f902554" />
 
 ### 💾 File Management
 
