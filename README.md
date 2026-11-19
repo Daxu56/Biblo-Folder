@@ -7,34 +7,34 @@
 
 Organize applications, files, and shortcuts into customizable, expandable desktop folders. Add useful widgets and keep everything within reach.
 
--📂 **Expandable Folders**
+-📂 **Expandable Folders**——
 Access files and shortcuts directly from your desktop.
 
--🎨 **Customization**
+-🎨 **Customization**——
 Choose colors, materials, shapes, sizes, transparency, and custom outline colors.
 
--🗂️ **Tabs and Stacks**
+-🗂️ **Tabs and Stacks**——
 Group compatible folders in tabs or scrollable stacks. Windows, Cyberpunk, and standard styles stay separate.
 
--🧩 **Desktop Widgets**
+-🧩 **Desktop Widgets**——
 Clock, Weather, Notes, Tasks, Timer, Calendar, and System, with customizable sizes and materials.
 
--🔎 **Quick Search**
+-🔎 **Quick Search**——
 Press **Ctrl + Space** to find and open files and shortcuts.
 
--🖱️ **Drag & Drop**
+-🖱️ **Drag & Drop**——
 Add content, reorder items, or move files out to another location.
 
--📐 **Smart Placement**
+-📐 **Smart Placement**——
 Align folders and widgets and find available space when expanding folders.
 
--📝 **Notes and Clipboard**
+-📝 **Notes and Clipboard**——
 Edit notes directly inside the widget and copy or paste content.
 
--⚡ **Performance Mode**
+-⚡ **Performance Mode**——
 Let desktop panels rest while using full-screen or maximized applications.
 
--💾 **File Management**
+-💾 **File Management**——
 Choose storage locations, restore individual items, or dissolve folders to return their contents.
 
 # 📸 Screenshots
