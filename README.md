@@ -1,32 +1,24 @@
 <img width="2172" height="724" alt="Banner neón Biblo Folder" src="https://github.com/user-attachments/assets/d2b62f65-4149-46de-9e78-9ef6a0c99124" />
 
 
-# 📁 Biblo Folder
+# Biblo Folder
 
-**Free, open-source desktop organizer for Windows.**
+**Free and open-source desktop organizer for Windows.**
 
-Organize applications, files, and shortcuts into customizable, expandable desktop folders. Add useful widgets and keep everything within reach.
+Group apps, files, and shortcuts into customizable desktop folders, stack or tab them cleanly, and place lightweight widgets right where you work—without cluttering your screen.
 
--📂 **Expandable Folders** —— Access files and shortcuts directly from your desktop.
+### Core Features
 
--🎨 **Customization** —— Choose colors, materials, shapes, sizes, transparency, and custom outline colors.
-
--🗂️ **Tabs and Stacks** —— Group compatible folders in tabs or scrollable stacks. Windows, Cyberpunk, and standard styles stay separate.
-
--🧩 **Desktop Widgets** —— Clock, Weather, Notes, Tasks, Timer, Calendar, and System, with customizable sizes and materials.
-
--🔎 **Quick Search** —— Press **Ctrl + Space** to find and open files and shortcuts.
-
--🖱️ **Drag & Drop** —— Add content, reorder items, or move files out to another location.
-
--📐 **Smart Placement** —— Align folders and widgets and find available space when expanding folders.
-
--📝 **Notes and Clipboard** —— Edit notes directly inside the widget and copy or paste content.
-
--⚡ **Performance Mode** —— Let desktop panels rest while using full-screen or maximized applications.
-
--💾 **File Management** —— Choose storage locations, restore individual items, or dissolve folders to return their contents.
-
+* **Expandable Folders** — Open and access files, apps, and shortcuts directly from your desktop.
+* **Visual Customization** — Adjust colors, materials, shapes, sizes, transparency, and outline colors.
+* **Tabs & Stacks** — Organize compatible folders into tabs or scrollable stacks, keeping Windows, Cyberpunk, and standard styles separate.
+* **Desktop Widgets** — Clock, Weather, Notes, Tasks, Timer, Calendar, and System widgets with adjustable sizes and materials.
+* **Quick Search** — Press `Ctrl` + `Space` to locate and launch files and shortcuts fast.
+* **Drag & Drop** — Drop items in, reorder contents, or drag files out to other locations.
+* **Smart Placement** — Snap folders and widgets into place and automatically find room when expanding folders.
+* **Notes & Clipboard** — Edit notes inside the widget and copy or paste content on the fly.
+* **Performance Mode** — Pauses desktop panels while you run full-screen or maximized apps.
+* **File Management** — Pick storage paths, restore single items, or dissolve a folder to put everything back.
 # 📸 Screenshots
 
 
