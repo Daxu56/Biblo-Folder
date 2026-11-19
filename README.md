@@ -1,37 +1,47 @@
 <img width="2172" height="724" alt="Banner neón Biblo Folder" src="https://github.com/user-attachments/assets/d2b62f65-4149-46de-9e78-9ef6a0c99124" />
 
 
-📁 Biblo Folder
+# 📁 Biblo Folder
 
-Free, open-source desktop organizer for Windows.
+**Free, open-source desktop organizer for Windows.**
 
 Organize applications, files, and shortcuts into customizable, expandable desktop folders. Add useful widgets and keep everything within reach.
 
-✨ Features
+## 📂 Expandable Folders
+Access files and shortcuts directly from your desktop.
 
-📂 Expandable folders — Access your content directly from the desktop.
+## 🪟 Windows 11 Folders
+Native folder icons and Explorer-style tabs that follow your Windows appearance or use custom colors.
 
-🪟 Windows 11 folders — Native folder icons and Explorer-style tabs, with automatic system appearance or custom colors.
+## 🎨 Customization
+Choose colors, materials, shapes, sizes, transparency, and custom outline colors.
 
-🎨 Customization — Choose materials, colors, shapes, sizes, transparency, and outline colors.
+## 💎 Liquid Glass
+Adjustable refraction with curved edges and smooth opening and closing transitions.
 
-💎 Liquid Glass — Adjustable refraction with curved edges and smooth opening and closing transitions.
+## 🗂️ Tabs and Stacks
+Group compatible folders in tabs or scrollable stacks. Windows, Cyberpunk, and standard styles stay separate.
 
-🗂️ Tabs and stacks — Group compatible folders in tabs or scrollable stacks. Windows, Cyberpunk, and standard styles stay separate.
+## 🧩 Desktop Widgets
+Clock, Weather, Notes, Tasks, Timer, Calendar, and System, with customizable sizes and materials.
 
-🧩 Desktop widgets — Clock, Weather, Notes, Tasks, Timer, Calendar, and System, with customizable layouts and materials.
+## 🔎 Quick Search
+Press **Ctrl + Space** to find and open files and shortcuts.
 
-🔎 Quick search — Press Ctrl + Space to find and open your files and shortcuts.
+## 🖱️ Drag & Drop
+Add content, reorder items, or move files out to another location.
 
-🖱️ Drag & drop — Move content into folders, reorder items, or drag them out to another location.
+## 📐 Smart Placement
+Align folders and widgets and find available space when expanding folders.
 
-📐 Smart placement — Align folders and widgets, with folders finding available space when expanded.
+## 📝 Notes and Clipboard
+Edit notes directly inside the widget and copy or paste content.
 
-📝 Notes and clipboard — Edit notes directly inside the widget and explicitly copy or paste content.
+## ⚡ Performance Mode
+Let desktop panels rest while using full-screen or maximized applications.
 
-⚡ Performance mode — Let desktop panels rest while using full-screen or maximized applications.
-
-💾 File management — Choose storage locations, restore individual items, or dissolve folders to return their contents.
+## 💾 File Management
+Choose storage locations, restore individual items, or dissolve folders to return their contents.
 
 ## 📸 Screenshots
 
