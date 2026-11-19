@@ -7,35 +7,25 @@
 
 Organize applications, files, and shortcuts into customizable, expandable desktop folders. Add useful widgets and keep everything within reach.
 
--📂 **Expandable Folders**——
-Access files and shortcuts directly from your desktop.
+-📂 **Expandable Folders** —— Access files and shortcuts directly from your desktop.
 
--🎨 **Customization**——
-Choose colors, materials, shapes, sizes, transparency, and custom outline colors.
+-🎨 **Customization** —— Choose colors, materials, shapes, sizes, transparency, and custom outline colors.
 
--🗂️ **Tabs and Stacks**——
-Group compatible folders in tabs or scrollable stacks. Windows, Cyberpunk, and standard styles stay separate.
+-🗂️ **Tabs and Stacks** —— Group compatible folders in tabs or scrollable stacks. Windows, Cyberpunk, and standard styles stay separate.
 
--🧩 **Desktop Widgets**——
-Clock, Weather, Notes, Tasks, Timer, Calendar, and System, with customizable sizes and materials.
+-🧩 **Desktop Widgets** —— Clock, Weather, Notes, Tasks, Timer, Calendar, and System, with customizable sizes and materials.
 
--🔎 **Quick Search**——
-Press **Ctrl + Space** to find and open files and shortcuts.
+-🔎 **Quick Search** —— Press **Ctrl + Space** to find and open files and shortcuts.
 
--🖱️ **Drag & Drop**——
-Add content, reorder items, or move files out to another location.
+-🖱️ **Drag & Drop** —— Add content, reorder items, or move files out to another location.
 
--📐 **Smart Placement**——
-Align folders and widgets and find available space when expanding folders.
+-📐 **Smart Placement** —— Align folders and widgets and find available space when expanding folders.
 
--📝 **Notes and Clipboard**——
-Edit notes directly inside the widget and copy or paste content.
+-📝 **Notes and Clipboard** —— Edit notes directly inside the widget and copy or paste content.
 
--⚡ **Performance Mode**——
-Let desktop panels rest while using full-screen or maximized applications.
+-⚡ **Performance Mode** —— Let desktop panels rest while using full-screen or maximized applications.
 
--💾 **File Management**——
-Choose storage locations, restore individual items, or dissolve folders to return their contents.
+-💾 **File Management** —— Choose storage locations, restore individual items, or dissolve folders to return their contents.
 
 # 📸 Screenshots
 
