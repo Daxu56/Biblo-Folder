@@ -7,13 +7,13 @@
 
 Organize applications, files, and shortcuts into customizable, expandable desktop folders. Add useful widgets and keep everything within reach.
 
-📂 Expandable Folders
+📂 Expandable Folders.
 Access files and shortcuts directly from your desktop.
 
-🎨 Customization
+🎨 Customization.
 Choose colors, materials, shapes, sizes, transparency, and custom outline colors.
 
-🗂️ Tabs and Stacks
+🗂️ Tabs and Stacks.
 Group compatible folders in tabs or scrollable stacks. Windows, Cyberpunk, and standard styles stay separate.
 
 🧩 Desktop Widgets
